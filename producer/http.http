@@ -1,0 +1,10 @@
+###
+POST http://localhost:8081/api/user/
+Accept: application/json
+Content-Type: application/json
+
+{
+    "name": "gabriel",
+    "email": "gabriel.angelo16@mail.com",
+    "password": "password"
+}
